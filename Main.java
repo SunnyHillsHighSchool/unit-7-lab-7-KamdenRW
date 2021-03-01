@@ -24,6 +24,9 @@ public class Main
 		out.println("\n\n");		
 				
 		//add more test cases
-	
+		String[] wrds1 = "tree apple pineapple orange one six ten dog".split(" ");
+
+String[] wrds3 = "cat mouse fish horse cow pig sheep goat".split(" ");
+
 	}
 }
